@@ -25,7 +25,7 @@ print('twinke twinkle little star how i wonder what you are')
 print('twinke twinkle little star how i wonder what you are')
 print('twinke twinkle little star how i wonder what you are')
 print('twinke twinkle little star how i wonder what you are')
-print('twinke twinkle little star how i wonder what you are')
+
 print('twinke twinkle little star how i wonder what you are')
 print('twinke twinkle little star how i wonder what you are')
 print('twinke twinkle little star how i wonder what you are')
